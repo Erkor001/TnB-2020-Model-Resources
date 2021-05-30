@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\jq\hlvr\characters\citizens\male\face\tongue_albedo"
+	"$bumpMap" "models\jq\hlvr\characters\citizens\male\face\tongue_normal"
+	"$phongExponentTexture" "models\jq\hlvr\characters\shared\generic_emissive"
+	"$halfLambert" "1"
+	"$color2" "[0.8 0.8 0.8]"
+	"$phong" "1"
+	"$phongBoost" "2"
+	"$phongfresnelranges"	"[0.6 5.25 12.25]"
+}

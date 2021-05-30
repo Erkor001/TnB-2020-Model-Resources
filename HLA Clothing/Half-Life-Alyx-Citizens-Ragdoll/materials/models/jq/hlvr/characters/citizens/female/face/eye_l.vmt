@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+	"$Iris"  "models\jq\hlvr\characters\citizens\male\face\eyeball_civ"	  // Iris color in RGB with cornea noise in A
+	"$AmbientOcclTexture" "models/jq/hlvr/characters/shared/eyeball_ao"  
+	"$Envmap"             "models/jq/hlvr/characters/shared/eyeball_cubemap" 
+	"$CorneaTexture"  "models/jq/hlvr/characters/shared/eyeball_cornea"
+	"$EyeballRadius"	"0.5"
+	"$AmbientOcclColor"	"[0.45 0.45 0.45]"
+	"$Dilation"	"1"
+	"$ParallaxStrength"	".25"
+	"$CorneaBumpStrength"	".5"
+	"$Glossiness" "0.25"
+	"$halflambert" "1"
+	"$nodecal" "1"
+}
+

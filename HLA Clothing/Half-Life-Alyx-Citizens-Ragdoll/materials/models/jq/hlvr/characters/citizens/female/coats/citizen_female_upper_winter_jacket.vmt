@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\jq\hlvr\characters\citizens\female\coats\citizen_female_upper_winter_jacket_d"
+	"$bumpMap" "models\jq\hlvr\characters\citizens\female\coats\citizen_female_upper_winter_jacket_n"
+	"$phong" "1"
+	"$phongBoost" ".7"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[0.1 0.5 1]"
+	"$phongDisableHalfLambert" "1"
+	"$NoCull" "1"
+}
