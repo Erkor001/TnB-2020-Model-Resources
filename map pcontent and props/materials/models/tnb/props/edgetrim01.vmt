@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/tnb/props/edgetrim01"
-	"$bumpmap"     "models/tnb/props/edgetrim01_normal"
-	"$surfaceprop" 	"concrete"
-	"$halflambert" 			"1"	
-	"$alphatest" 			"1"		
-}

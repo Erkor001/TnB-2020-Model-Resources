@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"models/tnb/laserfence1_red"
-	"$model" 1
-	"$selfillum" 1
-}

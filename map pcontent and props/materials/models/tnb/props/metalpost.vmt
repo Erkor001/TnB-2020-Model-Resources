@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/tnb/props/metalpost"
-	"$bumpmap" 		"models/tnb/props/metalpost_n"
-
-	"$halflambert"	"1"		
-}

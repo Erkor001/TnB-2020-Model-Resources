@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/door3"
-	"$halflambert"	"1"	
-	"$surfaceprop" 			"metal"
-	
-
-}
-

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"tnb/maps/brickwall8"
-
-	
-	"$surfaceprop" 			"brick"	
-}

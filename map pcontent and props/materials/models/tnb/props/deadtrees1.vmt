@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/props_foliage/tree_deciduous_cards_01"
-	"$surfaceprop" 			"foliage"
-	"$translucent" 			"1"
-	"$nocull" 				"1"
-}

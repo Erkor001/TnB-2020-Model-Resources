@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" 	"models/tnb/props/barbedwire"
-
-	
-	"$alphatest" "1"
-	"$nocull" "1"
-
-}

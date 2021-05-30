@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" 	"models/tnb/props/cinderblocks"
-	"$bumpmap" 		"models/tnb/props/cinderblocks_normal"
-		"$halflambert"	"1"		
-	"$alphatest" "1"
-	
-
-}

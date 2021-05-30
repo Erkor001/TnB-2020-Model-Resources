@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" 		"models/tnb/props/cloth"
-	"$translucent" 		"1"
-	"$nocull" 			"1"
-}

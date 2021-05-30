@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/metal5"
-	
-	"$surfaceprop" 			"metal"
-	
-
-}
-

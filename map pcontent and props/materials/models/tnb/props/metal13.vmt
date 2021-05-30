@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/metal13"
-	"$bumpmap" 				"models/tnb/props/metal_generic_normal"		
-	"$surfaceprop" 			"metal"
-	
-	"$alphatest" 			"1"
-}
-

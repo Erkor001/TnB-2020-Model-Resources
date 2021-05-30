@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/camonet1"
-	"$surfaceprop" 			"foliage"
-	"$alphatest" 			"1"
-	"$nocull" 				"1"
-}

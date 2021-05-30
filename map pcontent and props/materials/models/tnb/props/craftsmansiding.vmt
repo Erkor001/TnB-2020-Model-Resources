@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/tnb/props/craftsmansiding"
-	"$bumpmap"     "models/tnb/props/craftsmansiding_normal"
-	"$surfaceprop" 	"wood"
-	//	"$alphatest" 	"1"
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 		"models/tnb/props/brickpile1"
-	"$bumpmap" 			"models/tnb/props/brickpile_normal"	
-
-}

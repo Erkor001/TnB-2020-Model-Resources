@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"metal/metalpipe003a"
-	"$bumpmap" 				"tnb/maps/metalpipe1_normal"
-	
-	"$surfaceprop" 			"metal"
-}

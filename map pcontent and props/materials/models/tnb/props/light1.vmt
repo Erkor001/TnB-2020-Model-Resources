@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	
-	"$basetexture" 		"models/tnb/props/light1"
-	"$selfillum" "1"
-}
-

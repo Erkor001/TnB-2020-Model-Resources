@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/concretebaseedge1"
-	"$bumpmap" 				"models/tnb/props/concretebaseedge1_normal"	
-	"$alphatest"	"1"
-			"$halflambert" 			"1"	
-}

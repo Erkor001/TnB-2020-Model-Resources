@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/carhulk"
-	"$surfaceprop" 			"metal"
-	"$halflambert" 			"1"	
-	"$alphatest" 			"1"
-}

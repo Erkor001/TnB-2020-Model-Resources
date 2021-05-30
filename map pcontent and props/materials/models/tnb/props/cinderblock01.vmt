@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models/tnb/props/cinderblock01"
-	"$surfaceprop" 			"concrete"
-	"$halflambert" 			"1"	
-
-}
