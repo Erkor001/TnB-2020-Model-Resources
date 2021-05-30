@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\larry\head\larry_face_albedo"
+	"$bumpMap" "models\hlvr\characters\larry\head\larry_face_normal"
+	"$phongExponentTexture" "models\hlvr\characters\larry\head\larry_face_exponent"
+	"$halfLambert" "1"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongBoost" ".3"
+	"$phongFresnelRanges" "[0.3 2.85 22.25]"
+	"$phongDisableHalfLambert" "1"
+}

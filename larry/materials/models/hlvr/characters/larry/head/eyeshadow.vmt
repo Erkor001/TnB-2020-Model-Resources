@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\larry\head\eyeshadow_albedo"
+	"$translucent" "1"
+}

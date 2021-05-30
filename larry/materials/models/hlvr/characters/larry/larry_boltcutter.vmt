@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\larry\larry_boltcutter_albedo"
+	"$bumpMap" "models\hlvr\characters\larry\larry_boltcutter_normal"
+	"$phongExponentTexture" "models\hlvr\characters\larry\larry_boltcutter_exponent"
+	"$color2" "[0.9 0.9 0.9]"
+	"$ambientOcclusion" "0.36"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$envMap" "env_cubemap"
+	"$envMapTint" "[0.01 0.01 0.01]"
+	"$envMapFresnel" "[1.0]"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$NoCull" "1"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[1 1.75 5.25]"
+	"$phongDisableHalfLambert" "1"
+}
+

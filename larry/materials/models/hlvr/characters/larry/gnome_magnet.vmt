@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\larry\gnome_magnet_albedo"
+	"$bumpMap" "models\hlvr\characters\larry\gnome_magnet_normal"
+	"$phongExponentTexture" "models\hlvr\characters\larry\gnome_magnet_exponent"
+	"$ambientOcclusion" "0.36"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$envMap" "env_cubemap"
+	"$envMapTint" "[0.04 0.04 0.04]"
+	"$envMapFresnel" "[1.0]"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongexponent" "15"
+	"$phongFresnelRanges" "[1 1.75 5.25]"
+	"$phongDisableHalfLambert" "1"
+}
+

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\larry\head\eyelash_color"
+	"$bumpMap" "models\hlvr\characters\shared\generic_normal_hair"
+	"$phongExponentTexture" "models\hlvr\characters\shared\sharedexp2"
+	"$color2" "[0.45 0.45 0.45]"
+	"$alphatest" "1"
+	"$alphatestreference" ".8"
+	"$ambientOcclusion" "0"
+	"$noCull" "1"
+	"$phong" "1"
+	"$phongBoost" "0.001"
+	"$phongFresnelRanges" "[0 0.05 0.15]"
+	"$phongDisableHalfLambert" "1"
+}

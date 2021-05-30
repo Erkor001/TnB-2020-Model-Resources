@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+	"$Iris"  "models/hlvr/characters/larry/head/eyeball_larry"	  // Iris color in RGB with cornea noise in A
+	"$AmbientOcclTexture" "models/hlvr/characters/shared/eyeball_ao"  
+	"$Envmap"             "models/hlvr/characters/shared/eyeball_cubemap" 
+	"$CorneaTexture"  "models/hlvr/characters/shared/eyeball_cornea"
+	"$EyeballRadius"	"0.5"
+	"$AmbientOcclColor"	"[0.45 0.45 0.45]"
+	"$Dilation"	".6"
+	"$ParallaxStrength"	".25"
+	"$CorneaBumpStrength"	".5"
+	"$Glossiness" "0.25"
+	"$halflambert" "1"
+	"$nodecal" "1"
+}
+
