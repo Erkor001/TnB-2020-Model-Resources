@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\jq\hlvr\characters\citizens\male\citizen_male_upper_c17_d"
+	"$bumpMap" "models\jq\hlvr\characters\citizens\male\citizen_male_upper_c17_n"
+	"$phong" "1"
+	"$phongBoost" ".7"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[0.1 0.5 1]"
+	"$phongDisableHalfLambert" "1"
+	"$NoCull" "1"
+}

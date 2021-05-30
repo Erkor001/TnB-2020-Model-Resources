@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\jq\hlvr\characters\citizens\male\coats\citizen_male_upper_baljacket_m"
+	"$bumpMap" "models\jq\hlvr\characters\citizens\male\coats\citizen_male_upper_baljacket_n"
+	"$color2" "[0.2 0.2 0.2]"
+	"$translucent" "1"
+	"$ambientOcclusion" "0.36"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$envMap" "env_cubemap"
+	"$envMapTint" "[0.3 0.3 0.3]"
+	"$envMapFresnel" "[1.0]"
+	"$phong" "1"
+	"$NoCull" "1"
+	"$phongBoost" "5"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[1 1.75 5.25]"
+	"$phongDisableHalfLambert" "1"
+}
+
