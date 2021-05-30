@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/props/barracks03"
+	"$bumpmap"     		"models/tnb/props/barracks03_normal"
+	"$surfaceprop" 	"glass"
+	"$translucent"	"1"
+	"$halflambert"	"1"	
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 			"tnb/maps/concretefloor1"
+	"$bumpmap" 				"tnb/maps/concretefloor1_normal"
+	
+	"$surfaceprop" 			"concrete"	
+}

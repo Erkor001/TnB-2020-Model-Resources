@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tnb/props/basement01"
+	"$bumpmap"     "models/tnb/props/basement01_normal"
+	"$surfaceprop" 	"concrete"
+	
+		"$halflambert"	"1"	
+}

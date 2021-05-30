@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tnb/props/apartmentpre01dcl"
+
+	"$surfaceprop" 	"concrete"
+	"$halflambert" 			"1"	
+	"$alphatest" 			"1"		
+}

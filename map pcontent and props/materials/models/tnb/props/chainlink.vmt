@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tnb/props/chainlink"
+
+	
+	"$alphatest" "1"
+	"$nocull" "1"
+
+
+}

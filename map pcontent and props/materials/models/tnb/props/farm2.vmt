@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/tnb/props/farm2"
+	"$bumpmap" 			"models/tnb/props/farm2_normal"	
+
+}

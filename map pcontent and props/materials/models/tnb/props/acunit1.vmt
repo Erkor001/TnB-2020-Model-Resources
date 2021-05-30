@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/tnb/props/acunit1"
+	"$halflambert"		"1"
+
+}

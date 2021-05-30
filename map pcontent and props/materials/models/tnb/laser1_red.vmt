@@ -1,0 +1,16 @@
+"unlitgeneric"
+{
+	"$baseTexture"			"models/tnb/laser1_red"
+	"$model" 1
+	"$additive" 1
+    "$nocull" 1
+	"Proxies"
+		{
+			"TextureScroll"
+			{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 1
+			"texturescrollangle" 180.00
+			}
+		}
+}

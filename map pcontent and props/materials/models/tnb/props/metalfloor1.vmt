@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 			"tnb/maps/metalfloor1"
+	"$bumpmap" 				"tnb/maps/metalfloor1_normal"
+	
+	"$surfaceprop" 			"metal"
+}

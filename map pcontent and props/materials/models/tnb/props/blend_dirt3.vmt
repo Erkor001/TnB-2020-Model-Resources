@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 				"tnb/maps/dirt1"
+
+	"$bumpmap" 					"tnb/maps/dirt1_normal"	
+	
+	"$surfaceprop" 				"gravel"	
+}
+

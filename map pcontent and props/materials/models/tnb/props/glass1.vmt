@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/props/glass1"			
+	"$surfaceprop" 			"glass"
+	
+	"$envmap" 					"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"	
+	"$envmapcontrast" 			"0.5"	
+	"$envmapsaturation" 		"0.5"	
+}
+

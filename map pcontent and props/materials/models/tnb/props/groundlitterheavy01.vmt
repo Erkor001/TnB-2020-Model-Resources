@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tnb/props/groundlitterheavy01"
+	"$bumpmap"     "models/tnb/props/groundlitterheavy01_normal"
+	"$surfaceprop" 	"dirt"
+	"$halflambert" 			"1"	
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/tnb/props/ferris2"
+	"$bumpmap" 			"models/tnb/props/ferris2_normal"	
+
+}

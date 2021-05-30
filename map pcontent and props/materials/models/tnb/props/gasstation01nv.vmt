@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tnb/props/gasstation01nv"
+	"$bumpmap"     "models/tnb/props/gasstation01nv_normal"
+}

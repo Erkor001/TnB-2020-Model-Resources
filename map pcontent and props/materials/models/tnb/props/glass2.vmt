@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/props/glass2"			
+	"$surfaceprop" 			"glass"
+	
+
+}
+
