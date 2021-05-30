@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\hlvr\characters\citizens\male\clothing\coat5_m"
+	"$bumpmap" 						"models\hlvr\characters\citizens\male\clothing\coat5_n"
+
+	"$phongalbedotint"				"1"
+	"$translucent" 		"1"
+
+//Phong
+	"$phong" 						"1"
+	"$phongboost"					".01"
+	"$phongfresnelranges"			"[0.87 0.9 1]"
+	"$phongexponent"			"3"
+
+	"$ambientocclusion"				"0.7"
+	"$nocull" 			"1"
+}

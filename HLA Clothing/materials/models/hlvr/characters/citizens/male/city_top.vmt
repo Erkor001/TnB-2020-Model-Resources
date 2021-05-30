@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\citizens\male\city_top_d"
+	"$bumpMap" "models\hlvr\characters\citizens\male\city_top_n"
+	"$phong" "1"
+	"$phongBoost" ".7"
+	"$phongexponent" "5"
+	"$phongFresnelRanges" "[0.1 0.5 1]"
+	"$phongDisableHalfLambert" "1"
+	"$NoCull" "1"
+}

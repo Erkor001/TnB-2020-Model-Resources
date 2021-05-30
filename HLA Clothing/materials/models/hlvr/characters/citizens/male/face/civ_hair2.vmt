@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\hlvr\characters\citizens\male\face\hair2_d"
+	"$bumpMap" "models\hlvr\characters\citizens\male\face\hair2_n"
+	"$halfLambert" "1"
+	"$normalMapAlphaEnvMapMask" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongBoost" ".1"
+	"$phongFresnelRanges" "[0.3 2.85 22.25]"
+	"$phongDisableHalfLambert" "1"
+}
