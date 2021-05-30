@@ -1,0 +1,46 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models\HLA/Metropolice/Metropolice_Head_Diff"
+	"$bumpmap" 		"models\HLA/Metropolice/Metropolice_Head_Normal"
+
+	"$color2"	"[0.5 0.5 0.5]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture" "models\HLA/Metropolice/Metropolice_Head_Exp"
+
+	"$phong" "1"
+	"$phongboost"	"0.40"
+
+	"$phongfresnelranges"	"[0.22 0.856 20]"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+
+
+
+	//EMISSIVE
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture	"dev/null"
+	$emissiveBlendBaseTexture	"models\HLA/Metropolice/Metropolice_Head_Emissive"
+	$emissiveBlendFlowTexture	"dev/null"
+//	$emissiveBlendTint "[2.52 0.64 0.036]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0]"
+
+	"$detail" 		"models\HLA/Metropolice/Metropolice_Head_Detail"
+	"$detailscale" 1
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+
+    "Proxies"
+    {
+        "UniformNoise"
+        {
+            "resultVar" "$emissiveBlendTint"
+            "minval" 0.60
+            "maxval" 1.00
+        }
+    }
+}
