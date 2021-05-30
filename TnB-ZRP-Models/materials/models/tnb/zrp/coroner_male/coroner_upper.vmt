@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tnb\zrp\Coroner_Male\Coroner_Upper"
+	"$bumpmap" "models\tnb\zrp\Coroner_Male\Coroner_Upper_nm"
+	"$halflambert" 1
+}

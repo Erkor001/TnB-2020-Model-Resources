@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tnb\zrp\SWAT_Female\SWAT_Hands_Gloved_b"
+	"$bumpmap" "models\tnb\zrp\SWAT_Female\SWAT_Hands_Gloved_nm"
+	"$halflambert" 1
+}

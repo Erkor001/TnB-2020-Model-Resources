@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tnb\zrp\Pig_Shared\Female\Pig_Upper_l"
+	"$bumpmap" "models\tnb\zrp\Pig_Shared\Female\Pig_Upper_nm"
+	"$halflambert" 1
+}
