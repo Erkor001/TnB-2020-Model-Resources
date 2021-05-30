@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/techcom/bag2"
+	"$bumpmap" 			"models/tnb/techcom/bag_normal"
+
+	"$halflambert" 					"1"
+}

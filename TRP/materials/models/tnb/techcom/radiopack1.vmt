@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/tnb/techcom/radiopack1"
+ 	"$halflambert"				"1"
+}

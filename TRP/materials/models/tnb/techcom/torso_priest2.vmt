@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/techcom/torso_priest2"
+	"$bumpmap"     			"models/tnb/techcom/torso_priest_normal"
+
+	"$nocull" 				"1"
+
+	"$phong" 				"1"
+	"$phongexponent" 		"10"
+	"$phongboost" 			"0.2"
+	"$phongfresnelranges" 	"[0.1 2.1 5.1]"
+	"$phongalbedotint" 		"1"
+	"$phongexponenttexture" "models/tnb/techcom/torso_priest_normal"
+
+	"$rimlight" 			"1"											
+	"$rimlightexponent" 	"1"									
+	"$rimlightboost" 		"0.5"	
+
+}
+

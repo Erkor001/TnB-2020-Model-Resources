@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models/tnb/techcom/fatigues_1"
+	"$bumpmap" 					"models/tnb/techcom/fatigues_normal"
+
+	
+	"$phong" 					"1"
+	"$phongexponent" 			"1"
+	"$phongboost" 				"0.4"
+	"$phongfresnelranges" 		"[1 2.1 5.1]"
+	"$phongalbedotint" 			"1"
+	"$phongexponenttexture"		"models/tnb/techcom/fatigues_normal"
+
+	"$rimlight" 				"1"											
+	"$rimlightexponent" 		"1"									
+	"$rimlightboost" 			"0.1"	
+
+
+
+}

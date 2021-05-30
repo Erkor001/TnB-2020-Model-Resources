@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/techcom/bandana_1"
+
+
+	"$halflambert" 					"1"
+}

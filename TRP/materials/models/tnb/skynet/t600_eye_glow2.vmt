@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 				"models/tnb/skynet/t600_eye_glow2"
+	"$model" 1
+	"$additive" 1
+	"$nocull" 					"1"
+	"$translucent" 1
+
+}

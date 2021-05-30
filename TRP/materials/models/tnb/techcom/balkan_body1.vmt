@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/techcom/balkan_body1"
+
+
+	"$halflambert" 					"1"
+}

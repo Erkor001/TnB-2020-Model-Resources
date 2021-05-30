@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/tnb/skynet/t300_chaingun"
+
+	"$halflambert" 					"1"
+
+}

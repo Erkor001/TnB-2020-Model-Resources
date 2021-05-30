@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/tnb/techcom/facewrap1"
+	"$bumpmap" 			"models/tnb/techcom/facewrap_normal"
+	"$nocull"			1
+	
+
+}

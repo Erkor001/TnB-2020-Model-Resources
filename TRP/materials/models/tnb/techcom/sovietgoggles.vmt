@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/tnb/techcom/sovietgoggles"
+ 	"$halflambert"				"1"
+}

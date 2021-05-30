@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/techcom/ghillie2"
+	"$halflambert" 			"1"
+	"$alphatest" 1
+
+	
+}

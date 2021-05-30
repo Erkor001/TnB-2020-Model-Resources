@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/techcom/eyepatch"
+
+	"$halflambert" 					"1"
+}

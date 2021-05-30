@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models/tnb/techcom/exoskeletons3"
+
+	"$halflambert" 					"1"
+
+}

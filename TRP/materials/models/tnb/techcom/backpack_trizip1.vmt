@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/techcom/backpack_trizip1"
+
+	"$halflambert" 					"1"
+}

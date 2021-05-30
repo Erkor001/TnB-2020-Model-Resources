@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 				"models/tnb/skynet/t800_hands3"
+	"$bumpmap"					"models/tnb/skynet/t800_hands_normal"
+  
+	"$translucent" 				"1"
+}

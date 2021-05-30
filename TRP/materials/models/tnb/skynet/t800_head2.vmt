@@ -1,0 +1,23 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 				"models/tnb/skynet/t800_head2"
+	"$bumpmap"					"models/tnb/skynet/t800_head_normal"
+  
+//	"$envmap" 					"env_cubemap"
+	"$envmaptint" 				"[ 0.2 0.2 0.2 ]" 
+	"$envmapcontrast" 			".50"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapsaturation" 		".35"
+
+ 	"$phong" 					"1"
+	"$phongexponent" 			"10"
+	"$phongboost"				"20"
+	"$phongfresnelranges"		"[.05 .5 1.5]"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.2"
+	"$rimlightexponent" "4"	
+
+//	"$lightwarp" 				"1"
+//	"$lightwarptexture" 		"models/tnb/skynet/phongwarp"
+}

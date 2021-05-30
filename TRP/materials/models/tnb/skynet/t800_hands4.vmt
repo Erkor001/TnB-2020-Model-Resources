@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 				"models/tnb/skynet/t800_hands4"
+	"$bumpmap"					"models/tnb/skynet/t800_hands_normal"
+  
+	"$envmap" 					"env_cubemap"
+	"$envmaptint" 				"[ 1 1 1 ]"  
+	"$envmapcontrast" 			".90"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapsaturation" 		".1"
+
+
+
+}

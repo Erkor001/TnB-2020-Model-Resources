@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/techcom/legs_killer1"
+
+	"$halflambert" 					"1"
+}
