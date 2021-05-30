@@ -17,3 +17,12 @@ MDL files, SMD files, QC files of almost everything I actually worked on, includ
 -Some other assorted heads or whatever
 
 A few more things beyond counting. Most of it won't have materials, but I've made sure to at least include the metrocop diffuse PSDs. Any thing else you'll have to get yourself either from the source (Half-life Alyx, for the most part) or from the addon that I took it from.
+
+# If you plan on using these assets and compile them into an addon, I implore you to give credit to their original creators:
+jqueary ported the HLA clothing and the metrocop.
+
+NinjaNub created the Combine Soldier models.
+
+I created the "Posthuman", "Transhuman", and male_old1 and female_old1 heads. They're in this asset pack but I uploaded them to an addon already, too.
+
+TRP models are most likely created by dave brown.
